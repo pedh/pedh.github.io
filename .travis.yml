@@ -1,0 +1,5 @@
+language: generic
+sudo: false
+
+script:
+  - .travis/update-submodules.sh
