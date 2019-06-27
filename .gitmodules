@@ -1,4 +1,0 @@
-[submodule "project/clrs"]
-	path = project/clrs
-	url = https://github.com/pedh/CLRS-Solutions.git
-	branch = gh-pages
